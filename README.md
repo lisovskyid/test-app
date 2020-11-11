@@ -19,7 +19,3 @@ Project configured with [Create React App](https://github.com/facebook/create-re
 ### Git branches
 
 `master` - contains current version
-
-### API documentation
-
-We are using Hacker documentation. For more info you can research `https://github.com/HackerNews/API`.
